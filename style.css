@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: black;
+    color: orange;
+    font-family: monospace;
+}
+#myForm {
+    text-align: center;
+    font-size: 3em;
+}
+input {
+    font-size: 1em;
+}
+select {
+    font-size: 1em;
+}
+textarea {
+    font-size: 0.5em;
+}
