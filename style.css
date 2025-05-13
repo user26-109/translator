@@ -1,6 +1,10 @@
 body {
     margin: 0;
-    background-color: blue;
+    background-image: url(heisenberg.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
     color: orange;
     font-family: monospace;
 }
